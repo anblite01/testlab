@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 notes on the txt file
+=======
+notes on the txt fileg
+>>>>>>> master
